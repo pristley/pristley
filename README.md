@@ -126,11 +126,6 @@ I believe in building AI systems with:
 <div align="center">
 ⭐ If you find my work helpful, consider starring my repositories!
 
-"Complexity is the enemy of reliability. Simplicity is the path to understanding."
-
-Show Image
-
-
 Last updated: July 2026 | Made with ❤️ for the systems engineering community
 
 </div>
