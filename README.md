@@ -122,3 +122,15 @@ I believe in building AI systems with:
 *"Complexity is the enemy of reliability. Simplicity is the path to understanding."*
 
 [![Profile views](https://komarev.com/ghpvc/?username=pristley&color=00D4FF&style=flat-square&label=Profile+Views)](https://komarev.com/ghpvc/?username=pristley&color=00D4FF&style=flat-square&label=Profile+Views)
+
+<div align="center">
+⭐ If you find my work helpful, consider starring my repositories!
+
+"Complexity is the enemy of reliability. Simplicity is the path to understanding."
+
+Show Image
+
+
+Last updated: July 2026 | Made with ❤️ for the systems engineering community
+
+</div>
