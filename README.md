@@ -227,7 +227,7 @@ I'm a systems engineer obsessed with building **production-ready, observable AI 
 ## 📚 FEATURED ARTICLES & RESOURCES
 
 ### Systems Engineering for AI
-- **[Designing Observable ML Systems](https://medium.com/pristley)** — Best practices for production ML observability
+- **[Designing Observable ML Systems](https://medium.com/@pristley)** — Best practices for production ML observability
 
 
 ### Technical Guides
