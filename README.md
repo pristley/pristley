@@ -20,7 +20,7 @@ I'm a systems engineer obsessed with building **production-ready, observable AI 
 **Interests:** AI Systems Engineering • MLOps • Production ML • Distributed Systems • Fault Detection • Observability • SLO Engineering • Causal Inference • Symbolic Methods
 
 ---
-##📈 QUICK STATS
+## 📈 QUICK STATS
 
 <table>
   <tr>
@@ -34,14 +34,14 @@ I'm a systems engineer obsessed with building **production-ready, observable AI 
     <td><strong>Deployment Stack</strong><br/>Kubernetes & Ray</td>
   </tr>
 </table>
----
-🎓 CORE COMPETENCIES
+
+## 🎓 CORE COMPETENCIES
 
 <div align="center">
 Fault ToleranceObservabilityML DeploymentCausal Inference🛡️ Designing for failure📊 Metrics & Monitoring🚀 End-to-end pipelines🔗 Causal DAGsRecovery strategiesReal-time diagnosticsVersion controlStructural learningCircuit breakersSLO trackingModel governanceRoot cause analysis
 
 </div>
----
+
 
 
 ## ⭐ FEATURED PROJECTS
