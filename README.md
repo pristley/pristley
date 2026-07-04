@@ -320,7 +320,7 @@ I believe in building AI systems with:
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3569-5415)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pristley@pristley.com)
 
-**Newsletter:** [Systems Engineering Dispatch](https://pristley.substack.com) — Join 500+ engineers
+**Newsletter:** [Chai Latte](https://pristley.substack.com) 
 
 </div>
 
