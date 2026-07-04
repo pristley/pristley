@@ -54,7 +54,7 @@ I'm a systems engineer obsessed with building **production-ready, observable AI 
 ## 🎯 What I Do
 - Designed scalable MLOps/AI platforms handling 250M+ customers
 - Lead cross-functional teams in Generative AI and SRE transformation
-- Architect multi-cloud strategies (AWS/Azure/GCP) for 12+ Fortune 500s
+- Architected multi-cloud strategies (AWS/Azure/GCP) for 12+ Fortune 500s
 - Reduce cloud spend while improving system reliability (ask me how)
 
 ## 🏆 Recent Impact
