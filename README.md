@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 Pristley | Systems & AI Architecture Engineer
+# Pristley | Systems & AI Architecture Engineer
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=120&color=00D4FF&center=true&vCenter=true&width=680&lines=🤖+AI+Systems+Engineer;📐+Production+ML+Architecture;🔍+Fault+Detection+%26+Anomaly+Detection;⚙️+SLO+Engineering+%26+Observability;🌐+Distributed+Systems+Design)
 
@@ -228,8 +228,7 @@ I'm a systems engineer obsessed with building **production-ready, observable AI 
 
 ### Systems Engineering for AI
 - **[Designing Observable ML Systems](https://medium.com/pristley)** — Best practices for production ML observability
-- **[Fault Tolerance Patterns in Distributed AI](https://pristley.substack.com)** — Real-world patterns and trade-offs
-- **[SLO Engineering for ML Teams](https://dev.to/pristley)** — Setting measurable reliability targets
+
 
 ### Technical Guides
 - [Symbolic Methods for Anomaly Detection](https://github.com/pristley/fault-oracle/wiki)
@@ -241,12 +240,9 @@ I'm a systems engineer obsessed with building **production-ready, observable AI 
 ## 🎤 SPEAKING & TEACHING
 
 - **Upcoming Talks**
-  - "Building Resilient AI Systems" — AI Systems Summit 2026
-  - "From Research to Production: SLO Engineering" — MLOps Community Meetup
+
   
-- **Podcast Appearances**
-  - Systems Engineering Today Podcast — Episode #42
-  - AI Operations Roundtable — Building Observable ML Systems
+
 
 ---
 
@@ -261,7 +257,7 @@ I'm interested in collaborating on:
 
 **How to reach out:**
 - 📧 Email: [pristley@pristley.com](mailto:pristley@pristley.com)
-- 💬 Twitter: [@pristley_](https://twitter.com/pristleys)
+- 💬 Twitter: [@pristleys](https://twitter.com/pristleys)
 - 🔗 LinkedIn: [pristley](https://www.linkedin.com/in/pristley-s-769185173/)
 - 📰 Newsletter: [Chai Latte](https://pristley.substack.com) — bi-weekly insights
 
