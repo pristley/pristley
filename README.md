@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pristley | Systems & AI Architecture Engineer
+# Pristley | Systems & AI Architecture Engineer |  Engineering Leader 
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=120&color=00D4FF&center=true&vCenter=true&width=680&lines=🤖+AI+Systems+Engineer;📐+Production+ML+Architecture;🔍+Fault+Detection+%26+Anomaly+Detection;⚙️+SLO+Engineering+%26+Observability;🌐+Distributed+Systems+Design)
 
@@ -51,6 +51,23 @@ I'm a systems engineer obsessed with building **production-ready, observable AI 
 </table>
 
 ---
+## 🎯 What I Do
+- Design scalable MLOps platforms handling 170M+ travelers
+- Lead cross-functional teams in Generative AI transformation
+- Architect multi-cloud strategies (AWS/Azure/GCP) for Fortune 500s
+- Reduce cloud spend while improving system reliability
+
+## 🏆 Recent Impact
+- **$300K/month** cloud savings through optimized AI platform design
+- **99.95% uptime** MLOps pipelines during peak traffic
+- **25% accuracy improvement** in enterprise AI agents
+- **Mentored 15+ engineers** in Generative AI best practices
+
+## 🛠️ Technical Expertise
+- **MLOps**: SageMaker, Vertex AI, Azure Synapse, CI/CD for ML
+- **Generative AI**: LLMs (GPT-4, Claude, Gemini), RAG, Fine-tuning
+- **Cloud**: Multi-cloud (AWS/Azure/GCP), Terraform, Kubernetes, DevSecOps
+- **Data**: Kafka, BigQuery, Apache Spark, Vector Databases
 
 ## 🎓 CORE COMPETENCIES
 
@@ -65,7 +82,14 @@ I'm a systems engineer obsessed with building **production-ready, observable AI 
 </div>
 
 ---
+## 🎓 Certifications
+- AWS Certified Generative AI Developer – Professional
+- AWS Certified Solutions Architect – Professional
+- AWS Certified DevOps Engineer - Professional
+- Microsoft Certified: Azure Solutions Architect Expert
+- Google Cloud Certified - Professional Cloud Architect
 
+---
 ## ⭐ FLAGSHIP PROJECTS
 
 ### 🎯 **[NeuralBudget](https://github.com/pristley/NeuralBudget)** — SLO Engineering for ML Systems
