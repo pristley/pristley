@@ -20,6 +20,29 @@ I'm a systems engineer obsessed with building **production-ready, observable AI 
 **Interests:** AI Systems Engineering • MLOps • Production ML • Distributed Systems • Fault Detection • Observability • SLO Engineering • Causal Inference • Symbolic Methods
 
 ---
+##📈 QUICK STATS
+
+<table>
+  <tr>
+    <td><strong>Years in Systems Engineering</strong><br/>7+ years</td>
+    <td><strong>Production ML Systems</strong><br/>15+ deployed</td>
+    <td><strong>Open Source Repos</strong><br/>20+ projects</td>
+  </tr>
+  <tr>
+    <td><strong>Primary Language</strong><br/>Rust & Python</td>
+    <td><strong>ML Framework</strong><br/>PyTorch & TensorFlow</td>
+    <td><strong>Deployment Stack</strong><br/>Kubernetes & Ray</td>
+  </tr>
+</table>
+---
+🎓 CORE COMPETENCIES
+
+<div align="center">
+Fault ToleranceObservabilityML DeploymentCausal Inference🛡️ Designing for failure📊 Metrics & Monitoring🚀 End-to-end pipelines🔗 Causal DAGsRecovery strategiesReal-time diagnosticsVersion controlStructural learningCircuit breakersSLO trackingModel governanceRoot cause analysis
+
+</div>
+---
+
 
 ## ⭐ FEATURED PROJECTS
 
