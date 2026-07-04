@@ -52,10 +52,10 @@ I'm a systems engineer obsessed with building **production-ready, observable AI 
 
 ---
 ## 🎯 What I Do
-- Design scalable MLOps platforms handling 170M+ travelers
-- Lead cross-functional teams in Generative AI transformation
-- Architect multi-cloud strategies (AWS/Azure/GCP) for Fortune 500s
-- Reduce cloud spend while improving system reliability
+- Designed scalable MLOps/AI platforms handling 250M+ customers
+- Lead cross-functional teams in Generative AI and SRE transformation
+- Architect multi-cloud strategies (AWS/Azure/GCP) for 12+ Fortune 500s
+- Reduce cloud spend while improving system reliability (ask me how)
 
 ## 🏆 Recent Impact
 - **$300K/month** cloud savings through optimized AI platform design
@@ -65,7 +65,7 @@ I'm a systems engineer obsessed with building **production-ready, observable AI 
 
 ## 🛠️ Technical Expertise
 - **MLOps**: SageMaker, Vertex AI, Azure Synapse, CI/CD for ML
-- **Generative AI**: LLMs (GPT-4, Claude, Gemini), RAG, Fine-tuning
+- **Generative AI**: LLMs (GPT, Claude, Gemini), RAG, Fine-tuning, Multi Agent system
 - **Cloud**: Multi-cloud (AWS/Azure/GCP), Terraform, Kubernetes, DevSecOps
 - **Data**: Kafka, BigQuery, Apache Spark, Vector Databases
 
