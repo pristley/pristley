@@ -143,7 +143,8 @@ I'm a systems engineer obsessed with building **production-ready, observable AI 
 ---
 
 ## 🌐 PROJECT ECOSYSTEM
-<img width="1440" height="840" alt="image" src="https://github.com/user-attachments/assets/007aad0e-81da-41cb-8fb3-841a6fb57a9a" />
+<img width="1440" height="1440" alt="image" src="https://github.com/user-attachments/assets/89c71893-46ea-4d99-819f-c474eaac2add" />
+
 
 
 
