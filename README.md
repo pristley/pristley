@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a systems engineer obsessed with building **production-ready, observable AI systems**. My focus spans architectural depth, defensive design, and trade-off analysis across latency, cost, and accuracy.
+I'm a systems engineer at heart obsessed with building **production-ready, observable systems**. My focus spans architectural depth, defensive design, and trade-off analysis across latency, cost, and accuracy. 
 
 **Core Expertise:**
 - 🏗️ **Systems-First Thinking** — Designing resilient, observable AI systems with measurable SLOs
