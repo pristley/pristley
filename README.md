@@ -57,11 +57,7 @@ I'm a systems engineer obsessed with building **production-ready, observable AI 
 - Architected multi-cloud strategies (AWS/Azure/GCP) for 12+ Fortune 500s
 - Reduce cloud spend while improving system reliability (ask me how)
 
-## 🏆 Recent Impact
-- **$300K/month** cloud savings through optimized AI platform design
-- **99.95% uptime** MLOps pipelines during peak traffic
-- **25% accuracy improvement** in enterprise AI agents
-- **Mentored 15+ engineers** in Generative AI best practices
+
 
 ## 🛠️ Technical Expertise
 - **MLOps**: SageMaker, Vertex AI, Azure Synapse, CI/CD for ML
