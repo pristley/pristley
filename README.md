@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pristley | Systems & AI Architecture Engineer |  Engineering Leader 
+# Pristley | Systems & AI Architecture Engineer |  Engineering Leader.
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=120&color=00D4FF&center=true&vCenter=true&width=680&lines=🤖+AI+Systems+Engineer;📐+Production+ML+Architecture;🔍+Fault+Detection+%26+Anomaly+Detection;⚙️+SLO+Engineering+%26+Observability;🌐+Distributed+Systems+Design)
 
