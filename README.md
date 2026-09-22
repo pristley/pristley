@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a systems engineer at heart obsessed with building **production-ready, observable systems**. My focus spans architectural depth, defensive design, and trade-off analysis across latency, cost, and accuracy. 
+I'm a systems and data engineer at heart obsessed with building **production-ready, observable systems**. My focus spans architectural depth, defensive design, and trade-off analysis across latency, cost, and accuracy. 
 
 **Core Expertise:**
 - 🏗️ **Systems-First Thinking** — Designing resilient, observable AI systems with measurable SLOs
@@ -39,13 +39,13 @@ I'm a systems engineer at heart obsessed with building **production-ready, obser
 
 <table>
   <tr>
-    <td><strong>Years in Systems Engineering</strong><br/>15+ years</td>
-    <td><strong>Production ML Systems</strong><br/>25+ deployed</td>
+    <td><strong>Years in Systems Engineering</strong><br/>16+ years</td>
+    <td><strong>Production Data and AI Systems</strong><br/>25+ deployed</td>
     <td><strong>Open Source Repos</strong><br/>20+ projects</td>
   </tr>
   <tr>
     <td><strong>Primary Language</strong><br/>Rust & Python</td>
-    <td><strong>ML Framework</strong><br/>PyTorch & TensorFlow</td>
+    <td><strong>AI/ML and Agentic Framework</strong><br/>CrewAI,A2A,PyTorch & TensorFlow</td>
     <td><strong>Deployment Stack</strong><br/>Kubernetes & Asorted Cloud</td>
   </tr>
 </table>
